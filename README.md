@@ -16,5 +16,5 @@ Optional:
          Any "Brands" listed, captured as on field.
  
 
-Finally data will be uploaded to a csv file. One of the optional Column will be empty if script cannot find a given argument.
+Finally data will be uploaded to a csv file. One of the optional Columns will be empty if script cannot find a given argument.
 [Superzoo_final.csv](https://github.com/H1soka2/SuperZoo-Exhibitor-Data-Scraper-Script/files/12527867/Superzoo_final.csv)
